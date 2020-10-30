@@ -18,8 +18,8 @@ print("\27[34m"..[[
 >> Features fast and powerful
                                                                                                                                                                          
 >> CH > @DDDDiD
->> CH > @DDDDiD 
-]].."\27[m")
+>> CH>m mmlmmm
+]] .. "\ 27 [م)
 
 io.popen("mkdir Tshake_Files")
 t = "\27[35m".."\nAll Files Started : \n____________________\n"..'\27[m'
